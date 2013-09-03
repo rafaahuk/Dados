@@ -1,0 +1,13 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL._1_jogador.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\bin\Debug\Dados_RAFAEL.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\bin\Debug\Dados_RAFAEL.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL._2_Jogador.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL._3_Jogador.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Dados_RAFAEL\Dados_RAFAEL\obj\x86\Debug\Dados_RAFAEL._4_Jogador.resources
